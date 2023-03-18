@@ -1,3 +1,9 @@
+libnet-ldapapi-perl (3.0.7-4) UNRELEASED; urgency=medium
+
+  * Set upstream metadata fields: Bug-Submit, Repository.
+
+ -- Debian Janitor <janitor@jelmer.uk>  Sat, 18 Mar 2023 04:28:41 -0000
+
 libnet-ldapapi-perl (3.0.7-3) unstable; urgency=medium
 
   [ Debian Janitor ]
